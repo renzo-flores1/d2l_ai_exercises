@@ -1,4 +1,4 @@
-# Solved Exercises from [Dive into Deep Learning](http://d2l.ai/index.html)
+# Solved Exercises from Dive into Deep Learning
 
 This repository contains 
 
